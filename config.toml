@@ -1,7 +1,7 @@
 baseURL = "https://yanziv.github.io/"
-relativeURLs = false
+relativeURLs = true
 uglyURLs = false
-canonifyURLs = true
+canonifyURLs = false
 title = "Yanzi Lin (Veronica)"
 theme = "academimal-theme"
 sectionPagesMenu = "main"
